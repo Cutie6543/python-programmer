@@ -1,0 +1,11 @@
+n=371
+temp=n
+s=0
+while temp!=0:
+    r=temp%10
+    s+=r*r*r
+    temp=temp//10
+if n==s:
+    print("given number is armstrong")
+else:
+    print("given number is not a armstrong ")
