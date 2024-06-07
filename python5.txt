@@ -1,0 +1,9 @@
+n=20
+s=0
+for i in range(21):
+    s=s+i
+average=s/i
+print("sum of the first",n,"natural numbers:",s)
+print("average of the first",n,"natural numbers:",average)
+o/p:-sum of the first 20 natural numbers: 210
+average of the first 20 natural numbers: 10.5

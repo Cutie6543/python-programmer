@@ -1,0 +1,9 @@
+n=10
+s=0
+for i in range(11):
+    s=s+i
+average=s/i
+print("sum of the first",n,"natural numbers:",s)
+print("average of the first",n,"natural numbers:",average)
+o/p:-sum of the first 10 natural numbers: 55
+average of the first 10 natural numbers: 5.5
