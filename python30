@@ -1,0 +1,2 @@
+summate=lambda x,y:x+y
+print("sum=",summate(22,55))
