@@ -1,0 +1,8 @@
+def name(fn,ln):
+    fn=str(input("enter"))
+    ln=str(input("enter"))
+    sep=' '
+    n=fn+sep+ln
+    return n
+print(name('fn','ln'))
+    
