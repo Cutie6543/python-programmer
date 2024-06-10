@@ -1,0 +1,4 @@
+def func(f,n):
+    print(f(n))
+twice=lambda a:a*2
+func(twice,4)
