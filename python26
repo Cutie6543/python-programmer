@@ -1,0 +1,3 @@
+str='he'
+text='hellohellohellohellohellohellohellohello'
+print(text.count(str,0,len(text)))
