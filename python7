@@ -1,0 +1,8 @@
+def func(f,n):
+    print(f(n))
+twice=lambda a:a*2
+thrice=lambda a:a*3
+quarter=lambda a:a*4
+func(twice,4)
+func(thrice,6)
+func(quarter,9)
